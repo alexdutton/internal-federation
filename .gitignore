@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+/build
+/.idea
+#/idm_brand/static/lib
+/node_modules
